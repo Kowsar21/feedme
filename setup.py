@@ -10,7 +10,7 @@ setup(
     author='dotkom',
     author_email='dotkom@online.ntnu.no',
     packages=['feedme'],
-    license='BSD License',  # example license
+    license='BSD  License',  # example license
     description='Food ordering management system',
     long_description='A food ordering management system for Django.\n\n\
     This project was initially started to help \'dotKom\' with organizing the ordering of food for their work nights.\n\n\
